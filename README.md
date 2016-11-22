@@ -6,3 +6,4 @@
 
 ### Week 2 Homework
 - Day 1: Simon Color Guessing Game
+- Day 2: Mancala
