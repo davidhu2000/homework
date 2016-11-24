@@ -8,3 +8,4 @@
 - Day 1: Simon Color Guessing Game
 - Day 2: Mancala Game
 - Day 3: RSpec Practice
+- Day 4: Big-O Exercises
