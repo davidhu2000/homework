@@ -9,3 +9,4 @@
 - Day 2: Mancala Game
 - Day 3: RSpec Practice
 - Day 4: Big-O Exercises
+- Day 5: LRU Cache
