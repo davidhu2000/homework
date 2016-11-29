@@ -10,3 +10,6 @@
 - Day 3: RSpec Practice
 - Day 4: Big-O Exercises
 - Day 5: LRU Cache
+
+### Week 3 Homework
+- Day 1: ORM Demo
