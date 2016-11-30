@@ -13,3 +13,4 @@
 
 ### Week 3 Homework
 - Day 2: ORM Demo
+- Day 3: Intro to Rails
