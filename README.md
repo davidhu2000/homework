@@ -12,4 +12,4 @@
 - Day 5: LRU Cache
 
 ### Week 3 Homework
-- Day 1: ORM Demo
+- Day 2: ORM Demo
