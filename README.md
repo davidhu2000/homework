@@ -14,3 +14,4 @@
 ### Week 3 Homework
 - [Day 2: ORM Demo](w3d2_orm_demo)
 - [Day 3: Intro to Rails](w3d3_intro_to_rails)
+- [Day 4: ActiveRecord Intro & N+1 Buster](w3d4_ar_and_n_1_buster)
