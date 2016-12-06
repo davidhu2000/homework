@@ -16,3 +16,6 @@
 - [Day 3: Intro to Rails](w3d3_intro_to_rails)
 - [Day 4: ActiveRecord Intro & N+1 Buster](w3d4_ar_and_n_1_buster)
 - [Day 5: Meta Corgis](w3d5_meta_corgis)
+
+### Week 4 Homework
+- [Day 1: Library Controller](w4d1_controller)
