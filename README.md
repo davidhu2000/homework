@@ -19,3 +19,4 @@
 
 ### Week 4 Homework
 - [Day 1: Library Controller](w4d1_controller)
+- [Day 3: Rails Authentication](w4d3_auth_demo)
