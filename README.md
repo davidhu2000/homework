@@ -21,3 +21,4 @@
 - [Day 1: Library Controller](w4d1_controller)
 - [Day 3: Rails Authentication](w4d3_auth_demo)
 - [Day 4: Helpers, Layouts, and Mailers](w4d4_helpers_layouts_mailers)
+- [Day 5: Polymorphic Associations and Concerns](w4d5_polymorphism_concerns)
