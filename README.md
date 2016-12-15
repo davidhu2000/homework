@@ -26,3 +26,4 @@
 ### Week 5 Homework
 - [Day 1: Capybara Demo](w5d1_capybara_demo)
 - [Day 3: Intro to Javascript](w5d3_intro_to_javascript)
+- [Day 4: Callbacks, Async Functions, and Functional Calls](w5d4_callback_async_func_calls)
