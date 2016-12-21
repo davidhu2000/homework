@@ -31,3 +31,4 @@
 
 ### Week 6 Homework
 - [Day 1: Wacky Painter](w6d1_wacky_painter)
+- [Day 2: AA Friends](w6d2_aa_friends)
