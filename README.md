@@ -34,3 +34,4 @@
 - [Day 2: AA Friends](w6d2_aa_friends)
 - [Day 3: First AJAX](w6d3_first_ajax)
 - [Day 4: Vanilla DOM](w6d4_vanilla_dom)
+- [Day 5: NPM Intro & React Calculator](w6d5_npm_intro_and_react_calc)
