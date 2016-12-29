@@ -35,3 +35,6 @@
 - [Day 3: First AJAX](w6d3_first_ajax)
 - [Day 4: Vanilla DOM](w6d4_vanilla_dom)
 - [Day 5: NPM Intro & React Calculator](w6d5_npm_intro_and_react_calc)
+
+### Week 7 Homework
+- [Day 1: Dollar Store](w7d1_dollar_store)
