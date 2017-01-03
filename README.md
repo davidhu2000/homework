@@ -38,3 +38,4 @@
 
 ### Week 7 Homework
 - [Day 1: Dollar Store](w7d1_dollar_store)
+- [Day 2: Middleware](w7d2_middleware)
