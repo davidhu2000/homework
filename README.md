@@ -40,3 +40,4 @@
 - [Day 1: Dollar Store](w7d1_dollar_store)
 - [Day 2: Middleware](w7d2_middleware)
 - [Day 3: Giphys Search](w7d3_giphys)
+- [Day 4: Rainbow Routes](W7d4_rainbow_routes)
