@@ -1,4 +1,4 @@
-# Homework Assignments from App Academy
+# Homework Assignments
 
 ### Week 1 Homework
 - [Day 3: Recursion Exercises](w1d3_recursion)
